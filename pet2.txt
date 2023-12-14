@@ -3,3 +3,6 @@ i had challenges and this code or command seems to work
 "
 git remote set-url origin https://github.com/chrisekwugum/GitsWork.git
 "
+"
+ git merge origin/main --allow-unrelated-histories
+"
