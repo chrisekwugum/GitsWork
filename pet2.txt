@@ -6,3 +6,6 @@ git remote set-url origin https://github.com/chrisekwugum/GitsWork.git
 "
  git merge origin/main --allow-unrelated-histories
 "
+
+I have just seen this, this command below helped out
+" git pull  https://github.com/chrisekwugum/GitsWork.git main"
