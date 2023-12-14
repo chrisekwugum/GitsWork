@@ -1,1 +1,5 @@
-This is a new work and  I am new to using git and github
+This is a new work and  I am new to using git and github. 
+i had challenges and this code or command seems to work
+"
+git remote set-url origin https://github.com/chrisekwugum/GitsWork.git
+"
